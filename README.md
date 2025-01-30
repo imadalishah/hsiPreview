@@ -5,7 +5,7 @@ A Python-based dashboard for visualizing and analyzing Hyperspectral Images (HSI
 [![Python 3.x](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/downloads/)
 
 ## Overview
-HSI Preview is a powerful tool for visualizing and analyzing hyperspectral imaging data across multiple formats. Designed with simplicity in mind, it offers an intuitive interface for researchers, data scientists, and professionals working with hyperspectral data.
+HSI Preview is a simple yet a quick visualizing and analyzing tool for hyperspectral imaging data across multiple formats. It offers an intuitive interface for researchers, data scientists, and professionals working with hyperspectral data.
 
 ## Key Features
 - Support for multiple HSI data formats (.mat, .npy, etc.)
@@ -15,7 +15,7 @@ HSI Preview is a powerful tool for visualizing and analyzing hyperspectral imagi
   - Contrast adjustment
   - Brightness control
   - Orientation alignment
-- Real-time spectral reflectance analysis for individual pixels
+- Spectral reflectance analysis for individual pixels
 - Interactive dashboard interface
 
 ## Installation
@@ -57,7 +57,7 @@ Contributions are welcome! Please feel free to:
 - Create pull requests
 
 ## Note:
-*This project is actively maintained and regularly updated. Feature requests and bug reports are tracked through GitHub issues.*
+*This project is currently being revised - expect errors and bugs!!!*
 
 If you find this project helpful, please consider giving it a ⭐️
 
