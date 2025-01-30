@@ -38,7 +38,7 @@ HSI Preview is a powerful tool for visualizing and analyzing hyperspectral imagi
 
 
 4. Usage
-```bash
+   ```bash
    Launch the dashboard:
    python dashboard.py
 
