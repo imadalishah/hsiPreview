@@ -1,25 +1,29 @@
-HSI Preview
+# HSI Preview
+
 A Python-based dashboard for previewing and analyzing Hyperspectral Images (HSI).
 
-Overview
+## Overview
+
 HSI Preview is a simple yet powerful tool for visualizing and analyzing hyperspectral imaging data. Built with Python, it provides a user-friendly interface for researchers and professionals working with hyperspectral data.
-Features
 
-Interactive visualization of hyperspectral data
-Channel-by-channel navigation
-Basic image enhancement capabilities
-Python-based implementation
+## Features
 
-Getting Started
-Prerequisites
+- Interactive visualization of hyperspectral data
+- Channel-by-channel navigation
+- Basic image enhancement capabilities
+- Python-based implementation
 
-Python 3.x
-Required Python packages (to be listed in requirements.txt)
+## Getting Started
 
-Installation
+### Prerequisites
 
-Clone the repository:
+- Python 3.x
+- Required Python packages (to be listed in requirements.txt)
 
+### Installation
+
+1. Clone the repository:
+```bash
 git clone https://github.com/imadalishah/hsiPreview.git
 cd hsiPreview
 
