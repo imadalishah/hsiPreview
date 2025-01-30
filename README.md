@@ -8,8 +8,7 @@ A Python-based dashboard for visualizing and analyzing Hyperspectral Images (HSI
 HSI Preview is a simple yet a quick visualizing and analyzing tool for hyperspectral imaging data across multiple formats. It offers an intuitive interface for researchers, data scientists, and professionals working with hyperspectral data.
 
 ![image](https://github.com/user-attachments/assets/84665a88-cbbd-4511-b178-ba9875ac5d82)
-<p align="center"><em><strong>HSI Preview Dashboard showing the main interface with spectral visualization, band selection, and analysis tools.</strong></em> <strong>Dataset Image Source: HSI-Drive v2 [1]</strong> </p>
-<p align="center"></p>
+<p align="center"><em><strong>HSI Preview Dashboard showing the main interface with spectral visualization, band selection, and analysis tools.</strong></em> </p>br<strong>Dataset Image Source: HSI-Drive v2 [1]</strong> </p>
 
 
 ## Key Features
