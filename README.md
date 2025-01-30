@@ -61,5 +61,3 @@ Contributions are welcome! Please feel free to:
 
 If you find this project helpful, please consider giving it a ⭐️
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
