@@ -9,11 +9,7 @@ HSI Preview is a simple yet a quick visualizing and analyzing tool for hyperspec
 
 
 
-<p align="center">
-  <img src=![image](https://github.com/user-attachments/assets/1fd64cd8-318f-4dee-b3b6-7591b0dd5abc)
- alt="HSI Preview Dashboard" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-</p>
-
+![image](https://github.com/user-attachments/assets/d814fd5a-33ce-4377-8e9f-c9b2d6b84dbe)
 <p align="center"><em>HSI Preview Dashboard showing the main interface with spectral visualization, band selection, and analysis tools.</em></p>
 
 ## Key Features
