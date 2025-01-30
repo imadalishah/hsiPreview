@@ -1,54 +1,65 @@
 # HSI Preview
-
-*A Python-based dashboard for previewing and analyzing Hyperspectral Images (HSI)*
+A Python-based dashboard for visualizing and analyzing Hyperspectral Images (HSI)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.x](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/downloads/)
 
-## 🔍 Overview
+## Overview
+HSI Preview is a powerful tool for visualizing and analyzing hyperspectral imaging data across multiple formats. Designed with simplicity in mind, it offers an intuitive interface for researchers, data scientists, and professionals working with hyperspectral data.
 
-HSI Preview is a simple yet powerful tool for visualizing and analyzing hyperspectral imaging data. Built with Python, it provides a user-friendly interface for researchers and professionals working with hyperspectral data.
+## Key Features
+- Support for multiple HSI data formats (.mat, .npy, etc.)
+- Flexible dimension handling with visual preview capabilities
+- Channel-by-channel cube visualization
+- Advanced image enhancement tools:
+  - Contrast adjustment
+  - Brightness control
+  - Orientation alignment
+- Real-time spectral reflectance analysis for individual pixels
+- Interactive dashboard interface
 
-## ✨ Features
-
-- 📊 Interactive visualization of hyperspectral data
-- 🔄 Channel-by-channel navigation
-- 🎨 Basic image enhancement capabilities
-- 🐍 Python-based implementation
-
-## 🚀 Getting Started
+## Installation
 
 ### Prerequisites
-
 - Python 3.x
-- Required Python packages (to be listed in requirements.txt)
+- Dependencies (installed via requirements.txt)
 
-### Installation
+### Setup
 
 1. Clone the repository:
+   ```bash
+   git clone https://github.com/imadalishah/hsiPreview.git
+   cd hsiPreview
+
+
+2. Install required packages:
+   ```py
+   pip install -r requirements.txt
+
+
+4. Usage
 ```bash
-git clone https://github.com/imadalishah/hsiPreview.git
-cd hsiPreview
-```
+   Launch the dashboard:
+   python dashboard.py
 
+## Data Handling
 
-2. Install dependencies:
+- Supported Formats: .mat, .npy, and other common HSI data formats
+- Dimension Management:
+- Flexible dimension sequence selection
+- Visual preview for dimension verification
+- Automated dimension detection
 
-```py
-pip install -r requirements.txt
-```
+## Contributing
+Contributions are welcome! Please feel free to:
+- Submit bug reports
+- Propose new features
+- Create pull requests
 
-3. Usage
-```bash
-Run the dashboard:
-python dashboard.py
-```
+## Note:
+*This project is actively maintained and regularly updated. Feature requests and bug reports are tracked through GitHub issues.*
 
-### 📄 License and Contribution
+If you find this project helpful, please consider giving it a ⭐️
+
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-`Note: This project is under development. Features and documentation will be updated as the project evolves.
-
-Show your support
-Give a ⭐️ if this project helped you!
